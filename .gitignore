@@ -1,2 +1,4 @@
 node_modules
 .DS_Store
+frontend/my-app/package-lock.json
+backend/node_modules

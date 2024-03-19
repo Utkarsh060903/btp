@@ -14,8 +14,8 @@ export const MenuItems = [
     },
 
     {
-        title : "RulesAndRegulations",
-        url : "/RulesAndRegulations",
+        title : "Availability",
+        url : "/Availability",
         cName : "nav-links",
         icon :"fa-solid fa-book-sparkles"
     },

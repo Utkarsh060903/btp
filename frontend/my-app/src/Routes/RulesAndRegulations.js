@@ -1,7 +1,11 @@
+import Calendar from 'react-calendar';
+import './calender.css'
+
+
 function RulesAndRegulations (){
     return (
         <>
-        <h1>This is RulesAndRegulations</h1>
+     <Calendar/>
         </>
     )
 }
