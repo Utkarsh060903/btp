@@ -8,9 +8,9 @@ app.use(express.json())
 app.use(express.urlencoded())
 app.use(cors())
 
-mongoose.connect('mongodb+srv://utkarsh:Utkarsh@123@cluster0.ysagoei.mongodb.net/' , () => {
+/* mongoose.connect('mongodb+srv://utkarsh:Utkarsh@123@cluster0.ysagoei.mongodb.net/' , () => {
     console.log("db is connected")
-})
+}) */
 
 const connectDB = async () => {
     try {
